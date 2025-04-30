@@ -42,15 +42,14 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23-ViniciusPaesLeme&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- Contador de visitas -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&label=Visualizações&color=yellow&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=23-ViniciusPaesLeme&label=Visualizações&color=yellow&style=flat" alt="contador de visitas" />
 </p>
 
