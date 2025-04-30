@@ -6,9 +6,8 @@
 👨‍👩‍👦 Pai do Daniel e do Heitor 
 ❤️ Casado com Pâmela desde 2016
 ⚔️ Gamer nas horas vagas
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23-ViniciusPaesLeme&label=Visualizações&color=yellow&style=flat" alt="contador de visitas" />
-</p>
+
+
 
 ## 🚀 Tecnologias que estou aprendendo:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +48,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Vinícius Paes Leme github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-ViniciusPaesLeme&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=23-ViniciusPaesLeme&label=Visualizações&color=yellow&style=flat" alt="contador de visitas" />
+</p>
 
 
 
