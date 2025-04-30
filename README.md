@@ -6,7 +6,9 @@
 👨‍👩‍👦 Pai do Daniel e do Heitor 
 ❤️ Casado com Pâmela desde 2016
 ⚔️ Gamer nas horas vagas
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=23-ViniciusPaesLeme&label=Visualizações&color=yellow&style=flat" alt="contador de visitas" />
+</p>
 
 ## 🚀 Tecnologias que estou aprendendo:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -41,15 +43,23 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="right" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-ViniciusPaesLeme&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23-ViniciusPaesLeme&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=23-ViniciusPaesLeme&label=Visualizações&color=yellow&style=flat" alt="contador de visitas" />
-</p>
+
 
