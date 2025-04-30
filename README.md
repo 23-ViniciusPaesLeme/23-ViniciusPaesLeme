@@ -31,7 +31,6 @@
 ## 🎯 Objetivos com a programação:
 - Me tornar desenvolvedor full stack
 - Contribuir com projetos que promovam inclusão digital
-- Criar soluções que impactem positivamente comunidades carentes
 - Trabalhar com tecnologia de forma ética e acessível
 
 
