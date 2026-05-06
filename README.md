@@ -41,15 +41,19 @@
 - Empatia e inclusão social ❤️
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+  />
 
-![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23-ViniciusPaesLeme&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-ViniciusPaesLeme&layout=compact&langs_count=7&theme=github_dark"
+  />
+</p>
 
 
 
