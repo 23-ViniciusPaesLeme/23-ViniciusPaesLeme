@@ -47,6 +47,21 @@
 - Contribuir com projetos que promovam inclusão digital
 - Trabalhar com tecnologia de forma ética e acessível
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=23-ViniciusPaesLeme&show_icons=true&theme=dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23-ViniciusPaesLeme&layout=compact&theme=dark&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=23-ViniciusPaesLeme&theme=dark&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=23-ViniciusPaesLeme&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</p>
+
 ## 📌 Valores que me guiam
 
 - Aprendizado contínuo 📘
