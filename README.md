@@ -58,10 +58,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=23-ViniciusPaesLeme&theme=dark&hide_border=true" width="70%" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=23-ViniciusPaesLeme&theme=onedark&no-frame=true&margin-w=10&row=1" />
-</p>
-
 ## 📌 Valores que me guiam
 
 - Aprendizado contínuo 📘
