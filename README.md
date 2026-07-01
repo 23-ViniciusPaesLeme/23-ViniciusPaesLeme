@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=23-ViniciusPaesLeme&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=23-ViniciusPaesLeme&theme=onedark&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ## 📌 Valores que me guiam
